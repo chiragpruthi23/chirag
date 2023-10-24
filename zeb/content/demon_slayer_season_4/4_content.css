@@ -1,0 +1,17 @@
+.para{
+    display: flex;
+}
+
+.para-para{
+    margin: 1vw;
+}
+
+.images{
+    width: 32vw;
+}
+
+.img-div{
+    display: flex;
+    flex-direction: column;
+    margin: 1vw;
+}
